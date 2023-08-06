@@ -1,0 +1,16 @@
+body{
+    background: black;
+    color: white;
+}
+
+.btn{
+    background-color: rgb(226, 180, 43);
+    border: none;
+    color: rgb(198, 43, 226);
+    font-weight: bold;
+}
+
+h1{
+    font-size: 10px;
+    color: rgb(165, 19, 190);
+}
